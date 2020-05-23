@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `JODE Online`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Joanna Hamed`,
+      summary: `who lives and works in Woodinville with useful info.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A starter blog demonstrating what JODE can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `joannahamed`,
+      instagram: `joannahamed`,
     },
   },
   plugins: [
